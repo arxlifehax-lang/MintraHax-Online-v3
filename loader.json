@@ -2,7 +2,7 @@
     "LOADER": [
         {
             "folder_name": "loader",
-            "loader_version": 20
+            "loader_version": 23
         }
     ]
 }
